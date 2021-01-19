@@ -11,7 +11,7 @@ const defaultConfig = {
     { urls: 'stun:stun.1.google.com:19302' },
     {
       urls: 'turn:numb.viagenie.ca:3478',
-      'credential': '06031996',
+      'credential': 'password123456',
       'username': 'tigermax139@gmail.com'
     }
   ],
