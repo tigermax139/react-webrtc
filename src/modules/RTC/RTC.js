@@ -30,7 +30,6 @@ class RTC {
 
     this.signalingChannel.emit(eventTypes.INITIALIZED);
     this._initEvents();
-    console.log('constructor');
   }
 
   _initEvents() {
